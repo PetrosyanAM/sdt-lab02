@@ -7,5 +7,6 @@ main() {
     cin >> a >> b;
     cout << "A+B=" << a+b << '\n';
     cout <<"A=   "<< a*2 <'\n';
+    cout <<"A-B="<<a-b<<endl;
     return 0;
 }
